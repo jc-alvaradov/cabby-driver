@@ -1,0 +1,3 @@
+rootProject.name = 'TaxiNativeDriver'
+
+include ':app'
